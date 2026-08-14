@@ -1,5 +1,7 @@
 Olá , Meu nome é Julia Ferreira
+
 Estudante de Engenharia de Software
+
 Sou estudante de Engenharia de Software na PUC-Campinas, com grande interesse pelas áreas de Front-end e Banco de Dados e Testes de Software. Busco minha primeira oportunidade em tecnologia para colocar meus aprendizados na prática, ganhar experiência e evoluir na área.
 
 ✉️ Você pode entrar em contato comigo pelo e-mail juliamaiaferreira9@gmail.com
